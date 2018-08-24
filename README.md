@@ -2,7 +2,7 @@
 ### Reaching out to the Web (Http / Ajax)
 ------------- 
 
-Profundicación en Github: [This link](http://example.net/)
+Profundicación en Github: [This link](https://github.com/EducationVirginia/ReachingWeb)
 
 #### Instrucción
 1. Webpack
